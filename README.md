@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**mahmoudashraf10/mahmoudashraf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **3rd-year Electronics and Communication Engineering (ECE) student** with a deep passion for **Digital Design and Verification**. I focus on bridging the gap between hardware architecture and functional reliability.
 
-Here are some ideas to get you started:
+---
+### 🚀 Current Focus
+- 🏗️ Exploring ASIC and FPGA implementation.
+- 📝 Documenting engineering projects and graduation planning.
+---
+### 📫 How to connect me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahmoudashrafaun/)
+- 📧 [Email](mahmoudbazoka2004@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
